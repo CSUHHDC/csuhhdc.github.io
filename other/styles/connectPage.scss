@@ -51,6 +51,14 @@
     a:hover {
         text-decoration: none;
     }
+
+    iframe {
+        width: 100%;
+        box-shadow: 0 0 10px #fff;
+        border-radius: 10px;
+        margin: 20px 0;
+        padding: 10px 0;
+    }
 }
 
 @media screen and (max-width: 500px) {
